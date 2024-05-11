@@ -5,4 +5,4 @@ This project was developed as part of the React JS course at Tuwaiq Academy. It 
 
 <h1>Getting Started</h1> 
 
-simply download the repositories and open the `index.html` file in your web browser. You can also access the live demo [here](https://mohab0p.github.io/Asigmant-one/).
+simply download the repositories and open the `index.html` file in your web browser. You can also access the live demo [here](https://mohab0p.github.io/Assignment-One/).
